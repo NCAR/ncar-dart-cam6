@@ -50,10 +50,13 @@ The table shows available Zarr stores, including the variables, time ranges, and
 
 ## Citations
 
-- AWS-hosted subset: [https://doi.org/10.26024/sprq-2d04](https://doi.org/10.26024/sprq-2d04)  Bonnlander, B., and Raeder, K., (2019), “CAM6 Data Assimilation Research Testbed (DART) Reanalysis Cloud-Optimized Dataset,” UCAR/NCAR Computational and Informations Systems Lab.
-- Original dataset: [https://doi.org/10.5065/JG1E-8525](https://doi.org/10.5065/JG1E-8525)  Data Assimilation Research Section/Computational & Information Systems/National Center for Atmospheric Research/University Corporation for Atmospheric Research. 2020. CAM6 Data Assimilation Research Testbed (DART) Reanalysis. Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory. Accessed 27 Oct 2021.
-- The Scientific Reports description of the Original dataset: [https://doi.org/10.1038/s41598-021-92927-0](https://doi.org/10.1038/s41598-021-92927-0)  Raeder, K., Hoar, T.J., El Gharamti, M. et al (2021), "A new CAM6 + DART reanalysis with surface forcing from CAM6 to other CESM models", Sci Rep 11, 16384.
-- The DART Software: [https://docs.dart.ucar.edu](https://docs.dart.ucar.edu)
+- **AWS-hosted Subset**: [https://doi.org/10.26024/sprq-2d04](https://doi.org/10.26024/sprq-2d04)  
+> Bonnlander, B., and Raeder, K. (2019). “CAM6 Data Assimilation Research Testbed (DART) Reanalysis Cloud-Optimized Dataset”, UCAR/NCAR Computational and Informations Systems Lab.
+- **Original Dataset**: [https://doi.org/10.5065/JG1E-8525](https://doi.org/10.5065/JG1E-8525)  
+> Data Assimilation Research Section/Computational & Information Systems/National Center for Atmospheric Research/University Corporation for Atmospheric Research (2020). "CAM6 Data Assimilation Research Testbed (DART) Reanalysis", Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory. Accessed 27 Oct 2021.
+- **Scientific Reports description of Original Dataset**: [https://doi.org/10.1038/s41598-021-92927-0](https://doi.org/10.1038/s41598-021-92927-0)  
+> Raeder, K., Hoar, T.J., El Gharamti, M. et al (2021). "A new CAM6 + DART reanalysis with surface forcing from CAM6 to other CESM models", Sci Rep 11, 16384.
+- **DART Software**: [https://docs.dart.ucar.edu](https://docs.dart.ucar.edu)
 
 ## Contact
 
