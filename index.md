@@ -48,7 +48,7 @@ The table shows available Zarr stores, including the variables, time ranges, and
 - Jupyter Notebook creating a spaghetti plot of ensemble member values for any chosen variable, written in Python:  
   [https://github.com/NCAR/ncar-dart-cam6/blob/main/notebooks/plot-ensemble-values.ipynb](https://github.com/NCAR/ncar-dart-cam6/blob/main/notebooks/plot-ensemble-values.ipynb)
 
-## Citations
+## Citations and Additional Resources
 
 - **AWS-hosted Subset**: [https://doi.org/10.26024/sprq-2d04](https://doi.org/10.26024/sprq-2d04)  
 > Bonnlander, B., and Raeder, K. (2019). "CAM6 Data Assimilation Research Testbed (DART) Reanalysis Cloud-Optimized Dataset", UCAR/NCAR Computational and Informations Systems Lab.
