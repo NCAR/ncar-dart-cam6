@@ -47,6 +47,7 @@ The table shows available Zarr stores, including the variables, time ranges, and
 
 - Jupyter Notebook creating a spaghetti plot of ensemble member values for any chosen variable, written in Python:  
   [https://github.com/NCAR/ncar-dart-cam6/blob/main/notebooks/plot-ensemble-values.ipynb](https://github.com/NCAR/ncar-dart-cam6/blob/main/notebooks/plot-ensemble-values.ipynb)
+- Rendered (static) version of Jupyter Notebook:  [https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/examples/plot-ensemble-values.html](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/examples/plot-ensemble-values.html)
 
 ## Citations and Additional Resources
 
