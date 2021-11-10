@@ -11,7 +11,7 @@ This is a cloud-hosted subset of the CAM6+DART (Community Atmosphere Model versi
 - Region: **us-west-2** region
 - Amazon resource name: **arn:aws:s3:::ncar-dart-cam6**
 - Bucket contents list: [https://ncar-dart-cam6.s3.amazonaws.com/](https://ncar-dart-cam6.s3.amazonaws.com/)
-
+- Intake-ESM catalog: [https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json)
 
 ## Data Characteristics
 
@@ -53,7 +53,6 @@ The table shows available Zarr stores, including the variables, time ranges, and
 
 - **AWS-hosted Subset**: [https://doi.org/10.26024/sprq-2d04](https://doi.org/10.26024/sprq-2d04)  
 > Bonnlander, B., and Raeder, K. (2021). "CAM6 Data Assimilation Research Testbed (DART) Reanalysis Cloud-Optimized Dataset", UCAR/NCAR Computational and Informations Systems Lab.
-- **Intake-ESM Catalog**: [https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json)
 - **Original Dataset**: [https://doi.org/10.5065/JG1E-8525](https://doi.org/10.5065/JG1E-8525)  
 > Data Assimilation Research Section/Computational & Information Systems/National Center for Atmospheric Research/University Corporation for Atmospheric Research (2020). "CAM6 Data Assimilation Research Testbed (DART) Reanalysis", Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory. Accessed 27 Oct 2021.
 - **Scientific Reports description of Original Dataset**: [https://doi.org/10.1038/s41598-021-92927-0](https://doi.org/10.1038/s41598-021-92927-0)  
