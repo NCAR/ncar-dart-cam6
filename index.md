@@ -11,7 +11,6 @@ This is a cloud-hosted subset of the CAM6+DART (Community Atmosphere Model versi
 - Region: **us-west-2** region
 - Amazon resource name: **arn:aws:s3:::ncar-dart-cam6**
 - Bucket contents list: [https://ncar-dart-cam6.s3.amazonaws.com/](https://ncar-dart-cam6.s3.amazonaws.com/)
-- Intake-ESM catalog: [https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json)
 
 ## Data Characteristics
 
@@ -27,7 +26,7 @@ The data on AWS are structured according to the Zarr storage format. There are i
 - frequency = `weekly` or `hourly6`
 - variable = one of the variable names listed in the table below.
 
-The table shows available Zarr stores, including the variables, time ranges, and 2D or 3D nature (3D means multiple atmosphere levels).
+The table shows available Zarr stores, including the variables, time ranges, and 2D or 3D nature (3D means multiple atmosphere levels). See also [collection description](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.json) and [catalog file](https://ncar-dart-cam6.s3-us-west-2.amazonaws.com/catalogs/aws-dart-cam6.csv) used by [Intake-esm](https://intake-esm.readthedocs.io/).
 
 |variable|long_name|units|standard_name|vertical_levels|component|spatial_domain|start_time|end_time|frequency|path|
 |--------|---------|-----|-------------|---------------|---------|--------------|----------|--------|---------|----|
