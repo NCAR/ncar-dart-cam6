@@ -63,4 +63,4 @@ The table shows available Zarr stores, including the variables, time ranges, and
 
 Data are freely available and reusable under the terms of the CC-BY-4.0 license. See [Terms of Use](https://www.ucar.edu/terms-of-use/data). If you use these data, we request that you provide attribution in any derived products. The original, complete DART Reanalysis dataset and the AWS-hosted subset have different DOIs (Digital Object Identifiers) to reflect their differing scope and format.
 
-If you have questions or want to submit a data request, please reach out to us on our [GitHub Discussions](https://github.com/NCAR/ncar-dart-cam6/issues) page or via email: [cisl-aws-lens@ucar.edu](mailto:cisl-aws-lens@ucar.edu).
+If you have questions or want to request additional cloud-optimized variables from the original dataset, please reach out to us on our [GitHub Discussions](https://github.com/NCAR/ncar-dart-cam6/issues) page or via email: [cisl-aws-lens@ucar.edu](mailto:cisl-aws-lens@ucar.edu).
