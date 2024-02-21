@@ -16,7 +16,7 @@ This is a cloud-hosted subset of the CAM6+DART (Community Atmosphere Model versi
 
 - Variables `PS, T, US, VS, Q, CLDLIQ, CLDICE` are atmospheric fields available from each ensemble member of the Community Atmosphere Model (CAM6).  They provide weekly context for the other, more frequent, plant growth variables `ER, HR, TSA, EFLX_LH_TOT`, which come from the Community Land Model component of CESM.
 - Depending on user interest, we may add Plant Functional Type (PFT) variables 
-`GPP, GRAINC_TO_FOOD, GSSHALN, GSSUNLN, NPP, NPP_NUPTAKE, PLANT_NDEMAND, QVEGT, TLAI`. Please contact us at [cisl-aws-lens@ucar.edu](mailto:cisl-aws-lens@ucar.edu) if you are interested in using the PFT data.
+`GPP, GRAINC_TO_FOOD, GSSHALN, GSSUNLN, NPP, NPP_NUPTAKE, PLANT_NDEMAND, QVEGT, TLAI`. Please contact us at [cisl-aws-lens@ucar.edu](mailto:rdahelp@ucar.edu) if you are interested in using the PFT data.
 - Again depending on user interest, we may add 6-hourly ensemble mean data.
 
 ## Zarr format
